@@ -7,7 +7,7 @@ created this repo to help MarcoRossignoli from coverlet diagnose an issue
 see discussion of issue here: https://github.com/tonerdo/coverlet/issues/534
 
 using command line, navigate to A.Test and run the following command:
-dotnet test /p:CollectCoverage=true
+`dotnet test /p:CollectCoverage=true`
 
 Observe the error
 ```
